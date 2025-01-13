@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Monerah Almobarak
 
-🌍 Riyadh, Saudi Arabia • 📧 [monerahalmobarak1@gmail.com](mailto:monerahalmobarak1@gmail.com) • 📱 +966 558886704  
-🌐 [LinkedIn](https://www.linkedin.com/in/monerah-almobarak) | [GitHub](https://github.com/monerahalmobarak)
+🌍 Riyadh, Saudi Arabia • 📧 [monerahalmobarak1@gmail.com](mailto:monerahalmobarak1@gmail.com) • 🌐 [LinkedIn](https://www.linkedin.com/in/monerah-almobarak) | [GitHub](https://github.com/monerahalmobarak)
 
 ---
 
