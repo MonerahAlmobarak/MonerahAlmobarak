@@ -16,7 +16,7 @@ I am a **Technology Consulting Intern** specializing in **Full-Stack Development
 ## 💼 Experience
 
 
-- **SAP Young Professionals Program** @ SAP *(February 2025 – April 2025  )*  
+- **SAP Young Professionals Program** @ SAP *(February 2025 – April 2025)*  
   - Gained hands-on experience in SAP S/4HANA Cloud and ERP business process integration.  
   - Completed workshops and case studies on digital transformation and system configuration.
 
