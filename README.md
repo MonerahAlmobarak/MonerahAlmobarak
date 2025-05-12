@@ -15,6 +15,11 @@ I am a **Technology Consulting Intern** specializing in **Full-Stack Development
 
 ## 💼 Experience
 
+
+- **SAP Young Professionals Program** @ SAP *(February 2025 – April 2025  )*  
+- Gained hands-on experience in SAP S/4HANA Cloud and ERP business process integration.  
+- Completed workshops and case studies on digital transformation and system configuration.
+
 - **Technology Consulting Intern (GenAI)** @ PwC *(July 2024 – January 2025)*  
   - Developed React frontends and Python Fast API backends.  
   - Optimized AI models, boosting accuracy by 15%.  
@@ -36,10 +41,13 @@ I am a **Technology Consulting Intern** specializing in **Full-Stack Development
 
 ## 🏆 Certifications
 
-- **Text Retrieval and Search Engines** | University of Illinois *(July 2023)*  
-- **Big Data Foundations (Level 1 & 2)** | IBM *(February 2023)*  
-- **Database Foundations** | Oracle *(November 2021)*  
-
+- SAP Certified Associate – Business Process Integration with SAP S/4HANA (2025)  
+- SAP Certified Specialist – S/4HANA Cloud Implementation (2025)  
+- AWS Solutions Architect Associate Bootcamp – Tuwaiq Academy (2023)  
+- Text Retrieval and Search Engines – University of Illinois (2023)  
+- Google Analytics Certification – Google (2023)  
+- Big Data Foundations (Level 1 & 2) – IBM (2023)  
+- Database Foundations – Oracle (2021)
 ---
 
 ## 📊 Projects
