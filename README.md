@@ -17,8 +17,8 @@ I am a **Technology Consulting Intern** specializing in **Full-Stack Development
 
 
 - **SAP Young Professionals Program** @ SAP *(February 2025 – April 2025  )*  
-- Gained hands-on experience in SAP S/4HANA Cloud and ERP business process integration.  
-- Completed workshops and case studies on digital transformation and system configuration.
+  - Gained hands-on experience in SAP S/4HANA Cloud and ERP business process integration.  
+  - Completed workshops and case studies on digital transformation and system configuration.
 
 - **Technology Consulting Intern (GenAI)** @ PwC *(July 2024 – January 2025)*  
   - Developed React frontends and Python Fast API backends.  
